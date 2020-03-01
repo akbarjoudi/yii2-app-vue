@@ -25,6 +25,24 @@ or add
 
 to the require section of your `composer.json` file.
 
+Development Setup
+------------
+```
+# install deps
+npm install
+
+# build dist files
+npm run build
+
+# serve examples at localhost
+npm run dev
+
+# lint & run all tests
+npm test
+
+# serve docs at localhost
+npm run docs
+```
 
 Usage
 ----- 
