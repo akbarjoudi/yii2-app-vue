@@ -62,7 +62,8 @@ Directory components vuejs to:
   vendor/             contains dependent 3rd-party packages
   views/              contains view files for the Web application
     assets/           contains assets files
-        js/           contains js and component vue files
+        js/           contains js files
+         components/  contains components vue files
         sass/         contains scss files
   web/                contains the entry script and Web resources
 ```
