@@ -25,7 +25,31 @@ or add
 
 to the require section of your `composer.json` file.
 
+Development Setup
+------------
+```
+# install deps
+npm install
 
+# build dist files
+npm run build
+
+# serve examples at localhost
+npm run dev
+
+# lint & run all tests
+npm test
+
+# serve docs at localhost
+npm run docs
+```
+
+Local Development Server
+----- 
+If you have PHP installed locally and you would like to use PHP's built-in development server to serve your application, you may use the serve yii command. This command will start a development server at http://localhost:8000:
+```
+php yii serve
+```
 Usage
 ----- 
 
