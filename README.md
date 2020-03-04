@@ -33,15 +33,6 @@ npm install
 
 # build dist files
 npm run build
-
-# serve examples at localhost
-npm run dev
-
-# lint & run all tests
-npm test
-
-# serve docs at localhost
-npm run docs
 ```
 
 Local Development Server
