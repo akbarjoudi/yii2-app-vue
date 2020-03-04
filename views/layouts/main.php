@@ -26,7 +26,7 @@ AppAsset::register($this);
 
 </head>
 
-<body>
+<body >
     <?php $this->beginBody() ?>
     <div id="app">
         <div class="wrap">
