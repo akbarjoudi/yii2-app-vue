@@ -20,7 +20,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "build": "webpack",
+    "dev": "webpack --mode=development --progress",
+    "watch": "webpack --mode=development --watch --progress",
+    "production": "webpack --mode=production --progress"
   },
   "keywords": [],
   "author": "",

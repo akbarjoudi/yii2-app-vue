@@ -3,8 +3,6 @@
     <div class="jumbotron">
       <img src="img/vue.png" width="15%" /> +
       <img src="img/yii.png" width="15%" />
-      <h1></h1>
-
       <p class="lead">
         You have successfully created your Yii-powered application.
       </p>
