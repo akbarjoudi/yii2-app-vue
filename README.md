@@ -13,32 +13,23 @@ The preferred way to install this extension is through [composer](http://getcomp
 
 Either run
 
-```
-composer create-project aki/yii2-app-vue
-```
-
-or add
-
-```
-"aki/yii2-app-vue": "*"
-```
+- `composer create-project aki/yii2-app-vue basic`
+- `php yii migrate`
+- `npm install`
 
 to the require section of your `composer.json` file.
 
-Development Setup
-------------
-```
-# install deps
-npm install
+## Usage
 
-# build dist files
-npm run build
+### Development
 
-# serve examples at localhost
+```bash
 npm run dev
+```
+or
 
-# serve examples at localhost --watch
-npm run watch
+```bash
+npm run dev --watch
 ```
 
 Local Development Server
