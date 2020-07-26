@@ -29,7 +29,7 @@ npm run dev
 or
 
 ```bash
-npm run dev --watch
+npm run watch
 ```
 
 Local Development Server
