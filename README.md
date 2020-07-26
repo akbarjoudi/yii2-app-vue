@@ -17,7 +17,6 @@ Either run
 - `php yii migrate`
 - `npm install`
 
-to the require section of your `composer.json` file.
 
 ## Usage
 
